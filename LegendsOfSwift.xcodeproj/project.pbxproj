@@ -13,6 +13,7 @@
 		F011669324CC61FA007828A3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F011669124CC61FA007828A3 /* Main.storyboard */; };
 		F011669524CC61FB007828A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F011669424CC61FB007828A3 /* Assets.xcassets */; };
 		F011669824CC61FB007828A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F011669624CC61FB007828A3 /* LaunchScreen.storyboard */; };
+		F01166A024CC67C7007828A3 /* Fact.swift in Sources */ = {isa = PBXBuildFile; fileRef = F011669F24CC67C7007828A3 /* Fact.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F011669424CC61FB007828A3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F011669724CC61FB007828A3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F011669924CC61FB007828A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F011669F24CC67C7007828A3 /* Fact.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fact.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F011668B24CC61FA007828A3 /* AppDelegate.swift */,
 				F011668D24CC61FA007828A3 /* SceneDelegate.swift */,
 				F011668F24CC61FA007828A3 /* ViewController.swift */,
+				F011669F24CC67C7007828A3 /* Fact.swift */,
 				F011669124CC61FA007828A3 /* Main.storyboard */,
 				F011669424CC61FB007828A3 /* Assets.xcassets */,
 				F011669624CC61FB007828A3 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				F011669024CC61FA007828A3 /* ViewController.swift in Sources */,
 				F011668C24CC61FA007828A3 /* AppDelegate.swift in Sources */,
 				F011668E24CC61FA007828A3 /* SceneDelegate.swift in Sources */,
+				F01166A024CC67C7007828A3 /* Fact.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
